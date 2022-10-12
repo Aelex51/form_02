@@ -43,7 +43,7 @@
       </select>
       
       <label for="message">Message :</label>
-      <textarea id="message" name="message" rows="4" cols="50">
+      <textarea id="message" name="message" rows="4" cols="50" required>
       </textarea>
       <button type="submit" name="submit">Submit</button>
     <?php
